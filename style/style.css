@@ -1,0 +1,83 @@
+.header_404 {
+  font-family: "Inconsolata";
+  font-weight: 700;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  color: #333333;
+  margin: 40px 0 100px 77px;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.strawman {
+  width: 540px;
+  margin-right: 120px;
+  margin-left: 77px;
+}
+
+.strawman img {
+  width: 100%;
+}
+
+h1 {
+  font-family: "Space Mono";
+  font-size: 4rem;
+  max-width: 586px;
+  font-weight: 700;
+  color: #333333;
+  letter-spacing: -0.035em;
+  margin-bottom: 36px;
+}
+
+.message p {
+  max-width: 381px;
+  font-family: "Space Mono";
+  font-weight: 400;
+  font-size: 1.5rem;
+  letter-spacing: -0.035em;
+  color: #4f4f4f;
+  line-height: 36px;
+  margin-bottom: 64px;
+}
+
+.message button {
+  width: 216px;
+  height: 68px;
+  background: #333333;
+  color: #fff;
+  font-family: "Space Mono";
+  font-size: 0.875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.footer p {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  color: #bdbdbd;
+  margin-top: 200px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 1300px) {
+  .message {
+    margin: 60px 20px 0 24px;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  .message p {
+    font-size: 1.125rem;
+  }
+  .header_404 {
+    margin-left: 24px;
+  }
+}
