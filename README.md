@@ -10,11 +10,11 @@ Project for practice. From https://devchallenges.io/
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://kaiopratess.github.io/404-not-found-project/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://kaiopratess.github.io/404-not-found-project/}">
       Solution
     </a>
     <span> | </span>
